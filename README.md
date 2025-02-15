@@ -10,3 +10,12 @@ A curated collection of projects demonstrating self-taught Python and data scien
 - [ ] **Phase 4:** Development and Learning Integration (Weeks 7-10)
 - [ ] **Phase 5:** Application Building & Interactive Dashboard (Week 11-12)
 - [ ] **Phase 6:** Polish, Feedback, and Future Proofing (Weeks 13-14)
+
+## 💡 Project Ideas
+### Diagonalization vs. PINN
+- [ ] `morse_potential.ipynb`
+- [ ] `PINN_morese_potential.ipynb`
+
+## 🔖 Project Skills
+
+## 🥅 Project Goals
